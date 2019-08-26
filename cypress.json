@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://web.sst-cloud.osinit.com/",
+  "apiUrl": "https://api.sst-cloud.osinit.com",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "chromeWebSecurity": false
+}
