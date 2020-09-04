@@ -61,7 +61,7 @@
     "mochawesome": "^4.0.1",
     "mochawesome-merge": "^2.0.1",
     "mochawesome-report-generator": "^4.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.19.1",
     "null-loader": "^0.1.1",
     "postcss-loader": "^3.0.0",
