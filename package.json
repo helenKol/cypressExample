@@ -94,7 +94,7 @@
     "invariant": "^2.2.2",
     "isomorphic-fetch": "^2.2.1",
     "moize": "^3.0.2",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "morgan": "^1.9.1",
     "mustache-express": "^1.2.8",
     "normalize.css": "^7.0.0",
